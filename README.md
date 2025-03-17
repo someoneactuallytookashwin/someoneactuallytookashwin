@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Im want to learn a lot of thing and im trying my best to do so. 
-![image] (https://github.com/someoneactuallytookashwin/someoneactuallytookashwin/blob/main/jpg(2))
+![image](https://github.com/someoneactuallytookashwin/someoneactuallytookashwin/blob/main/jpg(2))
 
 <!--
 **someoneactuallytookashwin/someoneactuallytookashwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
