@@ -1,6 +1,6 @@
 Hello there 👋
 
-I try to make intuitive digital experiences that delight users :)
+I try to make stuff :)
 
 ![image](https://github.com/someoneactuallytookashwin/someoneactuallytookashwin/blob/main/jpg(2))
 
